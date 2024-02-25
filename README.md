@@ -41,7 +41,7 @@ Follow these simple steps to get Cadenus-C2 up and running:
 5. Start C2
 
    ```bash
-   python3 cadenus-c2.py
+   python3 c2.py
    ```
 
 ---
