@@ -1,4 +1,4 @@
-# Cadenus-C2 - C2 Framework Written in Python
+# Cadenus C2 - C2 Framework Written in Python
 
 Cadenus-C2 is a single connection C2 platform written in Python with a dense feature set that is always growing and changing. Feature list can be shown with HELP command, all commands entered that are not feature commands will be executed on the target system. Beacon is currently windows only, connection will bind and normal bash commands will execute but special commands will not work.
 
