@@ -50,4 +50,4 @@ Beacon contains multiple non-native libraries, so you must compile into a PE (us
 
 ---
 
-Happy hacking!!!
+Happy Hacking!
